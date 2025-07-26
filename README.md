@@ -1,2 +1,2 @@
 # Atividade4
-Atividade de perfil
+Um perfil social de um site de comunicação
